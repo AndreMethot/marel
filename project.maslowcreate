@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "marel",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 115208,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9885189437428245,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
